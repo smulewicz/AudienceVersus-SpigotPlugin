@@ -1,1 +1,1 @@
-# AudienceVersus (SpigotPlugin)
+# SpigotPlugin / AudienceVersus
