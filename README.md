@@ -1,2 +1,2 @@
 # AudienceVersus
-## Plugin for Spigot
+- Plugin for Spigot
